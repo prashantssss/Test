@@ -5,7 +5,7 @@ public class EducatorLoginPage {
 	
 	EducatorLoginPage(){
 
-	tg
+	
 		
 		
 	}
